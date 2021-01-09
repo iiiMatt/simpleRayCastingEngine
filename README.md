@@ -1,7 +1,7 @@
 # simpleRayCastingEngine
 A very simple ray casting engine made with p5js
 
-## controlls:
+## controls:
   - "w,a,s,d" or "arrowkeys" to move
   - "m" to toggle map
   - you can draw on the map by pressing and releasing
